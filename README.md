@@ -77,7 +77,7 @@ function cure(beefStrips){
 
 
 
-Return to [beginning](#Making-Biltong)
+Return to [beginning](#README.md)
 
 
 
