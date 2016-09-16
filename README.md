@@ -1,4 +1,4 @@
-#[Making Biltong]
+<a name='start'>#Making Biltong</a>
 
 
 
@@ -77,7 +77,7 @@ function cure(beefStrips){
 
 
 
-Return to [beginning](#Making-biltong)
+Return to [beginning](#start)
 
 
 
