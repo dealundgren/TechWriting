@@ -1,6 +1,6 @@
 #Making Biltong
 
-Biltong is what southern Africans call cured meat. The closest relative to it in the US is [beef jerky](https://en.wikipedia.org/wiki/Jerky), but there are substantial differences in taste and texture.
+>Biltong is what southern Africans call cured meat. The closest relative to it in the US is [beef jerky](https://en.wikipedia.org/wiki/Jerky), but there are substantial differences in taste and texture.
 
 ##Ingredients
 - Biltong-box
