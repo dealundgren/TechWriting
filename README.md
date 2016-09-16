@@ -51,15 +51,15 @@ function marinade(beefStrips){
 
 ```javascript
 function cure(beefStrips){
-  console.log('leave to dry')
-  console.log('occasionally check to ensure they aren't touching')
+  console.log('leave to dry');
+  console.log('occasionally check to ensure they aren't touching');
 }
 ```
 
 
 ##Troubleshooting
->Meat has developed white streaks on surface
-  - Wash each piece with redwine vinegar
+```Meat has developed white streaks on surface```
+**Wash each piece with redwine vinegar**
 
 
 
