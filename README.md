@@ -3,11 +3,15 @@
 Biltong is what southern Africans call cured meat. The closest relative to it in the US is [beef jerky](https://en.wikipedia.org/wiki/Jerky), but there are substantial differences in taste and texture.
 
 ##Ingredients
-- top grade beef
+- Biltong-box
+  * well-ventilated container (plastic or cardboard)
+  * inch-wide holes punched into the bottom, two per side
+  * inverted fun on the top, pulling air out of the box
+- Top grade beef
   * sirloin
   * tri-tip
   * rump
-- spice rub
+- Spice rub
   - salt
     * 1/4 cup
   - pepper
@@ -27,12 +31,10 @@ Biltong is what southern Africans call cured meat. The closest relative to it in
   - red wine vinegar
     * 1/2 cup
 
-
-###Cut into strips
-
-###Cover in salt
-
-###Drizzle 2 tablespoons of vinegar over each
+##Procedure
+1.Cut into strips
+2.Cover in salt
+3.Drizzle 2 tablespoons of vinegar over each
 
 ```javascript
 function marinade(beefStrips){
@@ -40,14 +42,11 @@ function marinade(beefStrips){
 }
 ```
 
-###Remove from fridge and pat dry
-
-###Apply seasoning frugally all over surface of each piece
-
-###Hang in biltong box
+4.Remove from fridge and pat dry
+5.Apply seasoning frugally all over surface of each piece
+6.Hang in biltong box
   - ensure pieces are touching each other as little as possible
-
-###Ensure environment is dry and well-ventilated
+7.Ensure environment is dry and well-ventilated
 
 ```javascript
 function cure(beefStrips){
@@ -59,6 +58,7 @@ function cure(beefStrips){
 
 ##Troubleshooting
 ```Meat has developed white streaks on surface```
+
 **Wash each piece with redwine vinegar**
 
 
