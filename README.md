@@ -1,4 +1,4 @@
-#Making Biltong
+#[Making Biltong](#start)
 
 
 
@@ -77,7 +77,7 @@ function cure(beefStrips){
 
 
 
-Return to [beginning](#README.md)
+Return to [beginning](#start)
 
 
 
