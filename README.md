@@ -60,7 +60,7 @@ function cure(beefStrips){
 ```Meat has developed white streaks on surface```
 - Wash each piece with redwine vinegar**
 
-Return to[beginning](#Making Biltong)
+Return to [beginning](#Ingredients)
 
 
 
