@@ -74,7 +74,8 @@ function cure(beefStrips){
 ```Meat has developed white streaks on surface```
 - **Wash each piece with redwine vinegar**
 
-
+>warning
+>If the meat has a weird smell, don't eat it!
 
 
 
